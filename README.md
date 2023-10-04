@@ -53,9 +53,9 @@ We aim to have our interview process completed in as timely a fashion as possibl
 
 4. **Take-home Exercise and/or Phone Interview**
 
-    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a member of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
+- **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a member of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
 
-    - **Technical Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical video interviews, we use Google Meet and cover coding and debugging, tech stack knowledge, and technical problem solving.
+- **Technical Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical video interviews, we use Google Meet and cover coding and debugging, tech stack knowledge, and technical problem solving.
 
 
 5. **Panel Interviews:** The next step in the interview process is a panel interview. It consists of three twenty minute interviews in one hour long period. Interviewers include people that would be on the candidate's direct team and people on cross-functional teams, too. The recruiter will share an overview of the team members with whom the candidate will be meeting.
