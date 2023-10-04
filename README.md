@@ -19,15 +19,19 @@ At Whop, we are exploring new ways to structure our interview process to create 
 
 ## Getting Started
 
-The following content will provide both candidates and recruiters with valuable information. 
+The following content will provide candidates, recruiters, hiring managers with valuable information. 
 
 **For Candidates:**
 
 - You will leave with a thorough understanding of the interview process at Whop, along with visibility into real questions from our interviews. Our recruiters will provide you with interview preparation specific to your role throughout the recruiting process.
 
-- Please note, around 30% of each interview is spent on questions that we do not include in the exercises. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
-
 - Throughout your time interviewing, we encourage you to share your thought process with your interviewers. Discussing *why* and *how* you developed a solution will put your creativity and approach to problem-solving on display!
+
+**For Hiring Managers:**
+
+- You will have a clearly defined process to follow when requesting a new job.
+
+- Following a structured process will lead to better hires.
 
 ## Interview Process and Timeline
 
@@ -37,11 +41,13 @@ The following content will provide both candidates and recruiters with valuable 
 
 We aim to have our interview process completed in as timely a fashion as possible, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
-1. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Whop Company Guide that gives applicants an inside look into the company culture.
+1A. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Whop Company Guide that gives applicants an inside look into the company culture.
+
+1B. **Recruiter Contact:** We may have reached out to you directly with interest in working together! 
 
 2. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations and review application submissions. If more information is required, a member of the team will reach out to the applicant directly. Candidates that are disqualified at this stage will be notified via Greenhouse.
 
-3. **Recruiter Phone Screen:** If the candidate qualifies for the role, the recruiter will send an availability request for a 20-minute call to explore their background, and experience as well as covering logistics. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a 20 minute video interview with the hiring manager.
+3. **Recruiter Phone Screen:** If the candidate qualifies for the role, the recruiter will send an availability request for a 30-minute call to explore their background, and experience as well as covering logistics. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a 30 minute video interview with the hiring manager.
 
 3. **Hiring Manager Phone Screen:** If moved forward the recruiter will send an availability request for a 30-minute call to explore their background and experience. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a take-home exercise or a technical video interview.
 
@@ -52,17 +58,19 @@ We aim to have our interview process completed in as timely a fashion as possibl
     - **Technical Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical video interviews, we use Google Meet and cover coding and debugging, tech stack knowledge, and technical problem solving.
 
 
-5. **Panel Interviews:** The next step in the interview process is a panel interview. It consists of three 20 minute interviews in one hour long period. Interviewers include people that would be on the candidate's direct team and people on cross-functional teams, too. The recruiter will share an overview of the team members with whom the candidate will be meeting.
+5. **Panel Interviews:** The next step in the interview process is a panel interview. It consists of three twenty minute interviews in one hour long period. Interviewers include people that would be on the candidate's direct team and people on cross-functional teams, too. The recruiter will share an overview of the team members with whom the candidate will be meeting.
 
-6. **Candidate Survey:** Once the candidate finished the panel interview, the recruiter will send the candidate a link to complete our candidate survey. By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
+6. **CEO Interview:** The final step in the interview process is an interview with Steven, Whop's CEO. It consists of a thirty minute video call covering your experience, fit to the business needs, and overall long term alignment.
 
-7. **Hiring Committee Review:** After the panel interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
+7. **Candidate Survey:** Once the candidate finished the panel interview, the recruiter will send the candidate a link to complete our candidate survey. By filling out this short 2-minute survey, candidates help us iterate on our interview process.
 
-8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone who has worked directly with the candidate and can speak to their past work. 
+8. **Hiring Committee Review:** After the panel interview is complete, feedback from the interview process is shared across the interview team. The hiring manager and CEO and reach a decision of hire/no-hire based on the comprehensive feedback. If moving forward recruiter will proceed with references otherwise feedback is shared with the candidate.
 
-9. **Final Review:** After successful reference calls, the recruiter submits the employee packet to the CEO and Hiring Manager for final approval.
+9. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone who has worked directly with the candidate and can speak to their past work. 
 
-10. **Offer Extend:** The recruiter will reach out to the candidate to schedule time to connect and extend the formal offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. While we would love to know whether or not you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one week, so that you can make the best decision for you and your family. 
+10 **Final Review:** After successful reference calls, the recruiter submits the employee packet to the CEO and Hiring Manager for final approval.
+
+11. **Offer Extend:** The recruiter will reach out to the candidate to schedule time to connect and extend the formal offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. While we would love to know whether or not you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one week, so that you can make the best decision for you and your family. 
 
 11. **Offer Accept/Onboarding:** If the candidate accepts the offer, the onboarding process begins. 
 
