@@ -8,36 +8,11 @@ At Whop, we want to ensure our job descriptions give you a clear picture of the 
 4. Set clear expectations for your first 30, 60 and 90 days.
 5. Provide clarity on what this hire is accomplishing for Whop.
 
-***Job Intake Form:***
+In order to build out a comprehensive Job Description Recruiters must work with Hiring Managers to fill out the Job Intake form before creating a Req.
 
-**What this role entails: JD: About the role**
+Use the following intake form to think about what questions are most important for a JD to answer.
+[Job Intake Form](JobIntakeForm.md)
 
-In this section you’re outlining what a day in the life of this job is. Imagine this were your job, and you were explaining it to an old friend you were meeting up with.
+Use the following Job Description template 
 
-- What is primary objective in this role?
-- What are the most critical challenges or projects facing this role in the first 6 months?
-- Your primary challenge in the first 6 months will be to drive X to Y at Whop.
-- What are the performance metrics or KPIs for this role?
-- Are there any time-sensitive milestones or deadlines this role is accountable for?
-- Internal: Has this role been open before? How has it changed over time?
-- Internal: Are there new skills that are now considered essential?
-
-**What does success in this role look like? JD: Responsibilities**
-
-This is not quantitative (although it does involve KPI’s). You must know, before ever interviewing a candidate, what success is in this role. 
-
-- What will they be responsible for? E.g. “You are able to bring us from X to Z in these key areas”, “You have figured out A, and manage the day to day operations of B”
-- Day-to-day ex. 1:
-- Day-to-day ex. 2:
-- Day-to-day ex. 3:
-- 30 day accomplishment:
-- 60 day accomplishment:
-- 90 day’s and beyond accomplishment:
-
-**Who are we looking for? Who are they? JD: Qualifications**
-
-- Preference for a particular education? If so is it a requirement?
-- Expected years of experience a candidate should have?
-- Specific tools this candidate needs to have experience with?
-- What are those tools used for in this role specifically?
-- What are non-negotiables things this candidate should have previously worked on? e.g. Previous experience building X with Y.
+[](images/JobKickoff.png)

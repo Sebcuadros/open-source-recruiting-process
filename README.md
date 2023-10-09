@@ -90,7 +90,7 @@ To apply to Whop:
 
 These files provide a deep-dive into the various stages of the interview process. It is important that recruiters tailor each stage to the position they are hiring for. Stages included: 
 
-- [Job Descriptions](JobDescriptions.md)
+- [Job Descriptions + Job Intake](JobDescriptions.md)
 
 - [Recruiter Phone Screen](RecruiterPhoneScreen.md)
 
